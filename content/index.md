@@ -1,11 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Team 1661 Documentation
 ---
 
-This is a blank Quartz installation.
-
 > [!INFO]
-> This is a work-in-progress and will be completed later
+> This is a work-in-progress and will be completed later. It is only currently available for testing purposes, and should not yet be used as a resource.
 
 Lorem ipsum ==dolor sit== amet.
 

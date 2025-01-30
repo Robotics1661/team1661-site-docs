@@ -1,0 +1,3 @@
+[submodule "frc_system_diagrams"]
+	path = frc_system_diagrams
+	url = https://github.com/Robotics1661/frc_system_diagrams.git
